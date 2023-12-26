@@ -1,0 +1,30 @@
+import './Data.css'
+const Data = [
+    {id:1,
+    image:"https://im.rediff.com/cricket/2022/sep/08vk.gif",
+    name:"Virat Kohli",
+    age:"35",
+    },
+    {id:2,
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKTa66Mpr61bQJpHkXVVd8Fx9nvAjKyD4j9A&usqp=CAU",
+    name:"Vijay Devrak",
+    age:"34", 
+    },
+    {id:3,
+    image:"https://images.indianexpress.com/2023/09/Vicky-Kaushal-2.jpg?w=414",
+    name:"Vicky Kaushal" , 
+    age:"35", 
+    },
+    {id:4,
+    image:"https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1648831507.webp",
+    name:"Shahid kapoor" , 
+    age:"42",
+   },
+    {id:5,
+    image:"https://assets.telegraphindia.com/telegraph/2023/Aug/1692419109_rakshit-shetty.jpg",
+    name:"Rakshit Shetty" , 
+    age:"40", 
+},
+    
+]
+export default Data
